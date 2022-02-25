@@ -1,0 +1,5 @@
+Exercice - 2
+
+Rajouter à l'exercice précédent le menu contenu dans cette page web :
+
+Ressource : https://getbootstrap.com/docs/3.3/components/#navbar
